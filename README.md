@@ -21,5 +21,6 @@ I'm Caio Sa, a student at Brigham Young University-Idaho interested in smart con
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/caiosabarros/) profile
 - Here is my [Twitter](https://x.com/caiosapy) profile
+- Here is my [Immunefi](https://immunefi.com/profile/caiosa/) profile
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my [portfolio](https://gist.github.com/caiosabarros/0762bc7a8c061b741f5b4d4985f93085) and don't hesitate to reach out. Happy coding! 🚀
