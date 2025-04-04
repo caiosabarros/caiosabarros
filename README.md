@@ -3,7 +3,7 @@
 
 Hello, GitHub! 👋
 
-I'm Caio Sa, . Welcome to my GitHub profile!
+I'm Caio Sá, an idealistic, curious learner passionate about decentralization, ideas, and people. Welcome to my GitHub profile!
 
 ## About Me
 
