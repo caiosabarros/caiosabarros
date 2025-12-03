@@ -16,8 +16,8 @@ I'm Caio Sá, an idealistic, curious learner passionate about decentralization, 
 ## Technologies and Tools
 
 - Proficient in: Solidity, Foundry, Hardhat, EVM.
-- Learning: Application Security using python with [Introduction to Python for Offensive Security](https://redteamleaders.coursestack.com/courses/ce82d160-2ef7-4f2c-8b15-e5ea742b1877). 
-- Skills: Smart Contract Development, Smart Contract Auditing and Smart Contracts Bug Hunter. 
+- Working on getting the [DCPT](https://desecsecurity.com/curso/pentest-experience) certification for pentesting.
+- Skills: Smart Contract Development, Smart Contract Auditing, and Smart Contracts Bug Hunter. 
 
 ## Let's Connect!
 
