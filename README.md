@@ -3,11 +3,11 @@
 
 Hello, GitHub! 👋
 
-I'm Caio Sá, an idealistic, curious learner passionate about decentralization, ideas, and people. Welcome to my GitHub profile!
+I'm Caio Sá, an idealistic, curious learner, passionate about creativity, decentralization, ideas, and people. A brute-force guy. Welcome to my GitHub profile!
 
 ## About Me
 
-- A student at Brigham Young University-Idaho interested in blockchain security and smart contract development.
+- A recent graduate of Software Development at Brigham Young University-Idaho, interested in blockchain security, smart contract development.
 - I'm currently learning application security and getting deeper on smart contract security.
 - My goals are to become a web2 and web3 successful bug hunter.
 - Ask me about anything. It'll be a pleasure to learn with you.
