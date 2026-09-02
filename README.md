@@ -1,7 +1,7 @@
 
 # Caio Sá
 
-Hello, GitHub! 👋
+Hello everyone! 👋
 
 I'm Caio Sá, an idealistic, curious learner, passionate about creativity, decentralization, ideas, and people. A brute-force guy. Welcome to my GitHub profile!
 
