@@ -7,22 +7,21 @@ I'm Caio Sá, an idealistic, curious learner, passionate about creativity, decen
 
 ## About Me
 
-- A recent graduate of Software Development at Brigham Young University-Idaho, doing smart contract security for fun.
-- My technical background is concerned to smart contract development, testing and security. 
-- I like reading application security content and exploring tools to develop useful applications for (currently) personal usage.
-- Ask me about anything. It'll be a pleasure to learn with you.
+- A current graduate student at the Simon Business School, University of Rochester.
+- My technical background concerns smart contract development, testing, and security. 
 - Check out my [Immunefi](https://immunefi.com/profile/caiosa/) profile
-- My personal tech Hall of Fame: [Jordan Leigh](https://www.youtube.com/watch?v=NQMC1du9pxg), [George Hotz](https://youtu.be/sRg8pODsE9I?si=hcmKgBxiU67ODzWv&t=698), [Vitalik Buterin](https://vitalik.eth.limo/) and [Jeremy Kun](https://www.jeremykun.com/).
+- My personal Tech Hall of Fame: [Jordan Leigh](https://www.youtube.com/watch?v=NQMC1du9pxg), [George Hotz](https://youtu.be/sRg8pODsE9I?si=hcmKgBxiU67ODzWv&t=698), [Vitalik Buterin](https://vitalik.eth.limo/) and [Jeremy Kun](https://www.jeremykun.com/).
 
 ## Technologies and Tools
 
-- Proficient in: Solidity, Foundry, Hardhat, EVM.
-- Working on getting the [DCPT](https://desecsecurity.com/curso/pentest-experience) certification for pentesting.
+- Current: Python, Pandas, NumPy, and Matplotlib.
+- Past: JavaScript, Solidity, Foundry, Hardhat, EVM.
+
+Feel free to find something interesting on my [portfolio](https://gist.github.com/caiosabarros/0762bc7a8c061b741f5b4d4985f93085) 
 
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/caiosabarros/) profile
 - Here is my [Twitter](https://x.com/caiosapy) profile
 
-
-Feel free to explore my [portfolio](https://gist.github.com/caiosabarros/0762bc7a8c061b741f5b4d4985f93085) and don't hesitate to reach out. Happy coding! 🚀
+Ask me about anything. It'll be a pleasure to learn with you.
