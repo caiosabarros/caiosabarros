@@ -13,7 +13,7 @@ I'm Caio Barros, an idealistic, curious learner, passionate about creativity, id
 
 ## My Favorite Quote
 
-- "The two best inventions of humanity are writing and money—the first because it allows for the transmission of knowledge through generations, and the second because it allows the exchange of interests." (Francis Bacon).
+- "The two best inventions of humanity are writing and money—the first because it allows for the transmission of knowledge through generations, and the second because it allows the exchange of interests" (Francis Bacon).
 
 ## More About Me
 
