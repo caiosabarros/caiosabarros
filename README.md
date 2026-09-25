@@ -7,9 +7,13 @@ I'm Caio Barros, an idealistic, curious learner, passionate about creativity, id
 
 ## About Me
 
-- A current Finance graduate student at the Simon Business School, University of Rochester.
+- A current Finance graduate student at the Simon Business School, University of Rochester. I got into Finance because of my genuine desire to understand the world.
 - My technical background concerns smart contract development, their testing, and their security, which is basically computational finance and business logic. I spent a good amount of time working on Real World Assets (RWA) in the crypto space.
 - I like computers - they are just fast 🤝
+
+## My Favorite Quote
+
+- "The best two inventions of humanity are writing and money. The first because it allows for the transmission of knowledge through generations. The second because it allows the exchange of interests" (Francis Bacon).
 
 ## More About Me
 
@@ -24,7 +28,7 @@ I'm Caio Barros, an idealistic, curious learner, passionate about creativity, id
 
 Feel free to find something interesting on my [portfolio](https://gist.github.com/caiosabarros/0762bc7a8c061b741f5b4d4985f93085) 
 
-## Let's Connect!(Why not?)
+## Why Don't We Connect?
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/caiosabarros/) profile
 - Here is my [Twitter](https://x.com/caiosapy) profile
